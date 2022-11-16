@@ -4,7 +4,7 @@
 ## Background:
 Genetic information goes from DNA to RNA to proteins. DNA must be accessible (ATAC data) to produce RNA (GEX data), which in turn is used as a template to produce proteins (ADT data). These processes are regulated by feedback, for example, a protein might bind DNA to prevent the production of more RNA. This genetic regulation is the basis of dynamic cellular processes that allow organisms to develop and adapt to changing environments.
 ## Dataset
-DNA-RNA(Multiome) data and RNA-protein (CITEseq) data at 5 time points in 10 days tested by 4 volunteers.
+DNA-RNA(Multiome) data and RNA-protein (CITEseq) data are tested at 5 time points in 10 days by 4 volunteers.
 ## Evaluation
 ### Ranked by Pearson correlation coefficient
 1. Correlations between DNA and RNA were calculated for each observation in the Multiome dataset
